@@ -18,7 +18,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dries-michiels&show_icons=true&locale=en" alt="dries-michiels" /></p>
 
-<img src="https://raw.githubusercontent.com/Dries-Michiels/Dries-Michiels/output/snake.svg" alt="Snake animation" />
 
 ###
 
